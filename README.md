@@ -49,5 +49,4 @@ Displays all transactions from the user’s log file.
 
 ---
 
-## Project Structure
 
